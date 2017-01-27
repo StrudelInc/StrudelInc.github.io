@@ -2,7 +2,7 @@
 layout: default
 img: phones.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Dog. And Apple devices. Again. Are you kidding me?
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+Vestibulum ac leo libero. Mauris mattis turpis et leo tempus venenatis. Duis purus ante, pellentesque ac tellus a, auctor vestibulum elit. Mauris feugiat vitae lacus ut vulputate. Sed efficitur quam at erat consectetur, vitae imperdiet nisi ornare.
