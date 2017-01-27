@@ -2,7 +2,7 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: We are awesome and we have iPad!
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempor sit amet felis sit amet placerat. Quisque luctus, tellus non vestibulum consectetur, diam augue lobortis orci, quis consectetur orci felis vel diam. Suspendisse malesuada nisi at sem fermentum, vitae vehicula ante elementum.
