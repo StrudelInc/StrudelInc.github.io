@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://shtrudelinc.github.io
+url: http://strudelinc.github.io
 title: Shtrude||nc Site
 email: #
 author: Yuriy Ackermann && Pavel Zamyatin
@@ -27,7 +27,7 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: https://twitter.com/ShtudelInc
+    url: https://twitter.com/StrudelInc
   - title: github
     url: https://github.com/StrudelInc
   # - title: linkedin
