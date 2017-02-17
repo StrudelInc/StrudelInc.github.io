@@ -1,8 +1,0 @@
----
-layout: default
-img: ipad.png
-category: Services
-title: We are awesome and we have iPad!
-description: |
----
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempor sit amet felis sit amet placerat. Quisque luctus, tellus non vestibulum consectetur, diam augue lobortis orci, quis consectetur orci felis vel diam. Suspendisse malesuada nisi at sem fermentum, vitae vehicula ante elementum.

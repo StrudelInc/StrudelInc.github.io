@@ -1,8 +1,0 @@
----
-layout: default
-img: dog.png
-category: Services
-title: We do like dogs. And iMacs. We don't have one, but we like.
-description: |
----
-  Morbi vel pulvinar libero. Sed turpis velit, pellentesque at hendrerit id, sollicitudin vel velit. Curabitur sed nunc justo. Nulla laoreet ligula id leo cursus, sit amet maximus lorem placerat. Aenean a varius ante. Fusce ultricies ut turpis sit amet fringilla. In in nibh dui.

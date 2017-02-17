@@ -1,8 +1,0 @@
----
-layout: default
-img: phones.png
-category: Services
-title: Dog. And Apple devices. Again. Are you kidding me?
-description: |
----
-Vestibulum ac leo libero. Mauris mattis turpis et leo tempus venenatis. Duis purus ante, pellentesque ac tellus a, auctor vestibulum elit. Mauris feugiat vitae lacus ut vulputate. Sed efficitur quam at erat consectetur, vitae imperdiet nisi ornare.
